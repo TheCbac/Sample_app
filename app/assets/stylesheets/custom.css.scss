@@ -222,22 +222,22 @@ input {
 
 /* microposts */
 
-.mircoposts {
+.microposts {
   list-style: none;
   margin: 10px 0 0 0;
 
   li {
-    padding:10px 0;
+    padding: 10px 0;
     border-top: 1px solid #e8e8e8;
   }
 }
 .content {
-  display:block;
+  display: block;
 }
-.timestamp{
+.timestamp {
   color: $grayLight;
 }
-.gravatar{
+.gravatar {
   float: left;
   margin-right: 10px;
 }
